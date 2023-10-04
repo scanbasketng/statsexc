@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "nom": "Daphnée",
+        "Points": 4,
+        "Rebonds": 5,
+        "Assists": 3,
+    
+        "Steals": 5,
+        "Blocks": 2,
+        "Pct": 33.3,
+        "% Lancer": 50,
+        "% à 3": 0,
+        "Évaluation": 11      
+        
+    },
+    {
+        "id": 2,
+        "nom": "Ambre",
+        "Points": 14,
+        "Rebonds": 2,
+        "Assists": 1,
+   
+        "Steals": 7,
+        "Blocks": 0,
+        "Pct": 70,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Évaluation": 21
+        
+    },
+    {
+        "id": 3,
+        "nom": "Léa",
+        "Points": 16,
+        "Rebonds": 8,
+        "Assists": 2,
+   
+        "Steals": 8,
+        "Blocks": 0,
+        "Pct": 50,
+        "% Lancer": 100,
+        "% à 3": 0,
+        "Évaluation": 26
+        
+    },
+    {
+        "id": 4,
+        "nom": "Amandine",
+        "Points": 7,
+        "Rebonds": 5,
+        "Assists": 3,
+       
+        "Steals": 2,
+        "Blocks": 0,
+        "Pct": 60,
+        "% Lancer": 0,
+        "% à 3": 100,
+        "Évaluation": 14
+        
+    },
+    {
+        "id": 5,
+        "nom": "Alexia",
+        "Points": 9,
+        "Rebonds": 0,
+        "Assists": 3,
+       
+        "Steals": 2,
+        "Blocks": 0,
+        "Pct": 28.6,
+        "% Lancer": 0,
+        "% à 3": 50,
+        "Évaluation": 3  
+        
+    },
+    {
+        "id": 6,
+        "nom": "Emma",
+        "Points": 23,
+        "Rebonds": 7,
+        "Assists": 4,
+   
+        "Steals": 5,
+        "Blocks": 0,
+        "Pct": 47.8,
+        "% Lancer": 50,
+        "% à 3": 0,
+        "Évaluation": 26
+        
+    },
+    {
+        "id": 7,
+        "nom": "Pauline",
+        "Points": 7,
+        "Rebonds": 2,
+        "Assists": 3,
+     
+        "Steals": 5,
+        "Blocks": 0,
+        "Pct": 60,
+        "% Lancer": 100,
+        "% à 3": 0,
+        "Évaluation": 12  
+        
+    },
+    {
+        "id": 8,
+        "nom": "Charline",
+        "Points": 25,
+        "Rebonds": 16,
+        "Assists": 2,
+
+        "Steals": 4,
+        "Blocks": 1,
+        "Pct": 64.7,
+        "% Lancer": 75,
+        "% à 3": 0,
+        "Évaluation": 40  
+    },
+    {
+        "id": 9,
+        "nom": "Aline",
+        "Points": 9,
+        "Rebonds": 8,
+        "Assists": 4,
+
+        "Steals": 5,
+        "Blocks": 0,
+        "Pct": 66.7,
+        "% Lancer": 20,
+        "% à 3": 0,
+        "Évaluation": 14  
+        
+    },
+    {
+        "id": 10,
+        "nom": "Raffaela",
+        "Points": 12,
+        "Rebonds": 5,
+        "Assists": 4,
+
+        "Steals": 4,
+        "Blocks": 0,
+        "Pct": 46.2,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Évaluation": 16  
+        
+    }
+]
