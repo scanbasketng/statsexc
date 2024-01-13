@@ -7,9 +7,19 @@ const Stats = ({ players }) => {
 
   useEffect(() => {
     const updateSortedPlayers = () => {
+      // Copy the players array and sort it
       const newSortedPlayers = [...players].sort((playerA, playerB) =>
         playerB[selectedStat] - playerA[selectedStat]
       );
+
+      // Move "Léa" to the end of the array
+      const leaIndex = newSortedPlayers.findIndex(player => player.nom === 'Léa');
+      if (leaIndex !== -1) {
+        const leaPlayer = newSortedPlayers.splice(leaIndex, 1)[0];
+        newSortedPlayers.push(leaPlayer);
+      }
+
+      // Update the state
       setSortedPlayers(newSortedPlayers);
     };
 
@@ -22,10 +32,11 @@ const Stats = ({ players }) => {
 
   return (
     <div className="container mt-4">
-       <nav className="navbar navbar-dark bg-green mb-4">
+      <nav className="navbar navbar-dark bg-green mb-4">
         <h1 className="navbar-brand mx-auto">Statistiques</h1>
-      </nav> <select className="form-control mb-4" value={selectedStat} onChange={handleChangeStat}>
-         <option value="Points">Points</option>
+      </nav>
+      <select className="form-control mb-4" value={selectedStat} onChange={handleChangeStat}>
+        <option value="Points">Points</option>
         <option value="Rebonds">Rebonds</option>
         <option value="Assists">Assists</option>
         <option value="Steals">Steals</option>
@@ -45,7 +56,9 @@ const Stats = ({ players }) => {
         <tbody>
           {sortedPlayers.map((player, index) => (
             <tr key={player.id} className={index % 2 === 0 ? 'table-light' : ''}>
-              <td className="text-center">{index + 1}</td>
+              <td className="text-center">
+                {player.nom === 'Léa' ? '-' : index + 1}
+              </td>
               <td className="text-center">{player.nom}</td>
               <td className="text-center">
                 {selectedStat === 'Points' ? (

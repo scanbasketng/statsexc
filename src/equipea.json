@@ -2,150 +2,149 @@
     {
         "id": 1,
         "nom": "Daphnée",
-        "Points": 7,
-        "Rebonds": 3.5,
-        "Assists": 3.5,
-    
-        "Steals": 4.5,
-        "Blocks": 2,
-        "Pct": 40,
+        "Points": 4,
+        "Rebonds": 2,
+        "Assists": 2,
+        "Pct": 20,
         "% Lancer": 50,
-        "% à 3": 0,
-        "Évaluation": 12  
+        "% à 3": 100,
+        "Steals": 1,
+        "Blocks": 0,
+        "Évaluation": 3
         
     },
     {
         "id": 2,
         "nom": "Ambre",
-        "Points": 9,
-        "Rebonds": 1.5,
-        "Assists": 3.5,
+        "Points": 0,
+        "Rebonds": 2,
+        "Assists": 6,
    
-        "Steals": 4,
-        "Blocks": 1.5,
-        "Pct": 56,
+        "Steals": 1,
+        "Blocks": 1,
+        "Pct": 0,
         "% Lancer": 0,
         "% à 3": 0,
-        "Évaluation": 16
+        "Évaluation": 0
         
     },
     {
         "id": 3,
-        "nom": "Léa",
-        "Points": 13.5,
-        "Rebonds": 5.5,
-        "Assists": 2.5,
+        "nom": "Coralie",
+        "Points": 0,
+        "Rebonds": 2,
+        "Assists": 1,
    
-        "Steals": 6.5,
+        "Steals": 0,
         "Blocks": 0,
-        "Pct": 48,
-        "% Lancer": 63,
+        "Pct": 0,
+        "% Lancer": 0,
         "% à 3": 0,
-        "Évaluation": 18.5
+        "Évaluation": 3
         
     },
     {
         "id": 4,
         "nom": "Amandine",
-        "Points": 7.5,
-        "Rebonds": 4.5,
-        "Assists": 2.5,
+        "Points": 2,
+        "Rebonds": 4,
+        "Assists": 2,
        
-        "Steals": 3.5,
+        "Steals": 0,
         "Blocks": 0,
-        "Pct": 44,
+        "Pct": 20,
         "% Lancer": 0,
-        "% à 3": 50,
-        "Évaluation": 13
+        "% à 3": 0,
+        "Évaluation": 1
         
     },
     {
         "id": 5,
         "nom": "Alexia",
-        "Points": 7.5,
-        "Rebonds": 1,
-        "Assists": 2.5,
+        "Points": 2,
+        "Rebonds": 2,
+        "Assists": 1,
        
-        "Steals": 4,
+        "Steals": 1,
         "Blocks": 0,
-        "Pct": 24,
+        "Pct": 14,
         "% Lancer": 0,
-        "% à 3": 33.3,
-        "Évaluation": 2
+        "% à 3": 0,
+        "Évaluation": -3
         
     },
     {
         "id": 6,
         "nom": "Emma",
-        "Points": 16.5,
-        "Rebonds": 3.5,
-        "Assists": 4.5,
+        "Points": 2,
+        "Rebonds": 5,
+        "Assists": 1,
    
-        "Steals": 9,
-        "Blocks": 0,
-        "Pct": 39,
-        "% Lancer": 75,
+        "Steals": 3,
+        "Blocks": 1,
+        "Pct": 10,
+        "% Lancer": 0,
         "% à 3": 0,
-        "Évaluation": 20.5
+        "Évaluation": 2
         
     },
     {
         "id": 7,
         "nom": "Pauline",
-        "Points": 8.5,
-        "Rebonds": 3,
-        "Assists": 3.5,
-     
-        "Steals": 5.5,
-        "Blocks": 0,
-        "Pct": 64,
+        "Points": 21,
+        "Rebonds": 4,
+        "Assists":5,
+        "Pct": 73,
         "% Lancer": 100,
-        "% à 3": 67,
-        "Évaluation": 17
+        "% à 3": 60,
+        "Steals": 2,
+        "Blocks": 0,
         
+        "Évaluation": 24
     },
     {
         "id": 8,
         "nom": "Charline",
-        "Points": 20,
-        "Rebonds": 13,
-        "Assists": 2,
+        "Points": 18,
+        "Rebonds": 18,
+        "Assists": 3,
 
-        "Steals": 3.5,
-        "Blocks": 2,
-        "Pct": 55,
-        "% Lancer": 50,
+        "Steals": 5,
+        "Blocks": 10,
+        "Pct": 40,
+        "% Lancer": 86,
         "% à 3": 0,
-        "Évaluation": 31  
+        "Évaluation": 41
     },
     {
         "id": 9,
         "nom": "Aline",
-        "Points": 8,
-        "Rebonds": 5,
-        "Assists": 2.5,
+        "Points": 2,
+        "Rebonds": 6,
+        "Assists": 2,
 
-        "Steals": 3,
-        "Blocks": 0,
-        "Pct": 47,
-        "% Lancer": 29,
+        "Steals": 1,
+        "Blocks": 1,
+        "Pct": 25,
+        "% Lancer": 0,
         "% à 3": 0,
-        "Évaluation": 7 
+        "Évaluation": 2
         
     },
     {
         "id": 10,
         "nom": "Raffaela",
-        "Points": 10,
-        "Rebonds": 4.5,
-        "Assists": 2,
+        "Points": 4,
+        "Rebonds": 3,
+        "Assists": 0,
 
-        "Steals": 2.5,
-        "Blocks": 0,
+        "Steals": 1,
+        "Blocks": 1,
         "Pct": 40,
         "% Lancer": 0,
         "% à 3": 0,
-        "Évaluation": 10.5  
+        "Évaluation": 4
         
     }
+  
 ]
